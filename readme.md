@@ -28,9 +28,9 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `146.0.7647.3` | 358.74 MB | `3c4cbaef9c3c8b0b...` | [下载](https://dl.google.com/release2/chrome/hiy4fkio2taxwfziy2id7ub3r4_146.0.7647.3/146.0.7647.3_chrome_installer_uncompressed.exe) |
-| **x64** | `146.0.7647.3` | 439.52 MB | `896564e2001b1a16...` | [下载](https://dl.google.com/release2/chrome/acj7xbomsolpqkgdzpieia6bbeka_146.0.7647.3/146.0.7647.3_chrome_installer_uncompressed.exe) |
-| **ARM64** | `146.0.7647.3` | 424.4 MB | `580aac37ec5261de...` | [下载](https://dl.google.com/release2/chrome/acrzrauce466adsfb4y4ybmsam6q_146.0.7647.3/146.0.7647.3_chrome_installer_uncompressed.exe) |
+| **x86** | `146.0.7647.4` | 358.74 MB | `230b2ef7c2daf6e2...` | [下载](https://dl.google.com/release2/chrome/opl4zth6kik2lnnsqoshuaeltu_146.0.7647.4/146.0.7647.4_chrome_installer_uncompressed.exe) |
+| **x64** | `146.0.7647.4` | 439.52 MB | `f2330b8c211674f6...` | [下载](https://dl.google.com/release2/chrome/muhg64amqnfdtoago7owln2fdq_146.0.7647.4/146.0.7647.4_chrome_installer_uncompressed.exe) |
+| **ARM64** | `146.0.7647.4` | 424.4 MB | `16bf09a6a0afb1e6...` | [下载](https://dl.google.com/release2/chrome/jjvaqm2nd2ftunr4k2gazrzguq_146.0.7647.4/146.0.7647.4_chrome_installer_uncompressed.exe) |
 
 ## Canary
 
@@ -38,5 +38,5 @@
 |------|--------|----------|-------------|----------|
 | **x86** | `146.0.7651.2` | 540.17 MB | `68099e6731e671f1...` | [下载](https://dl.google.com/release2/chrome/guqk72zpbbjyn4hdevazxuoobm_146.0.7651.2/146.0.7651.2_chrome_installer_uncompressed.exe) |
 | **x64** | `146.0.7651.1` | 656.62 MB | `05c8d300878800be...` | [下载](https://dl.google.com/release2/chrome/ace3u5x6bswsg3k2f2dela5rxepq_146.0.7651.1/146.0.7651.1_chrome_installer_uncompressed.exe) |
-| **ARM64** | `146.0.7651.0` | 424.85 MB | `aad51d925033c648...` | [下载](https://dl.google.com/release2/chrome/itoqp3ibo3egj6ofrvwcp6qkkm_146.0.7651.0/146.0.7651.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `146.0.7651.2` | 597.96 MB | `5e8c3e1115cc8fdb...` | [下载](https://dl.google.com/release2/chrome/fidbuy4h2rwbxio3a7svpm4iim_146.0.7651.2/146.0.7651.2_chrome_installer_uncompressed.exe) |
 
